@@ -11,8 +11,6 @@ A modern full stack chat application built with the MERN stack and Socket.io for
 - 🟢 Online user status  
 - 🚀 Global state management with Zustand  
 - 🐞 Error handling both on the server and on the client  
-- 📦 At the end Deployment like a pro for FREE!  
-- ✨ And much more!
 
 ---
 
